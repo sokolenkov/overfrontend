@@ -10,7 +10,7 @@ import {
   PostCard,
   PostList,
 } from 'components';
-import IPost from './posts/types';
+import IPost from 'types/Post';
 
 interface Props {
   posts: IPost[];

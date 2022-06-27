@@ -3,7 +3,7 @@ import Head from 'next/head';
 import matter from 'gray-matter';
 import { GetStaticPaths, GetStaticProps, NextPage } from 'next';
 
-import IPost from './types';
+import IPost from 'types/Post';
 import { PostLayout } from 'components';
 import { getDateStrFromTstamp } from 'utils/funcs';
 
