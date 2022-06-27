@@ -6,6 +6,7 @@ export { default as Search } from './Search';
 export { default as Topbar } from './Topbar';
 export { default as Switch } from './Switch';
 export { default as PostList } from './PostList';
+export { default as CodeBlock } from './CodeBlock';
 export { default as TgIcon } from './Icons/TgIcon';
 export { default as Pagination } from './Pagination';
 export { default as SunIcon } from './Icons/SunIcon';
